@@ -4,7 +4,7 @@ Maqueta de una página de blog de viajes hecha solo con **HTML5 y CSS3**, sin fr
 
 > Práctica del módulo de Lenguaje de Marcas (1.º DAW, Universidad Europea).
 
-🔗 **Demo:** https://madurga1.github.io/2--Actividad-evaluable-Lenguaje-de-Marcas/
+🔗 **Demo:** https://guillermomadurga.github.io/2--Actividad-evaluable-Lenguaje-de-Marcas/
 
 ![Vista en escritorio](docs/captura-escritorio.jpg)
 
@@ -33,7 +33,7 @@ Maqueta de una página de blog de viajes hecha solo con **HTML5 y CSS3**, sin fr
 No necesita instalación: clona el repositorio y abre `index.html` en el navegador.
 
 ```bash
-git clone https://github.com/Madurga1/2--Actividad-evaluable-Lenguaje-de-Marcas.git
+git clone https://github.com/GuillermoMadurga/2--Actividad-evaluable-Lenguaje-de-Marcas.git
 ```
 
 ## Posibles mejoras
